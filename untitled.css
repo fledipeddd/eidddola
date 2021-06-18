@@ -85,6 +85,10 @@ img.imgn:hover {
 	cursor: url(img/point.svg), auto;
 }
 
+span.corsivo {
+	font-style: oblique;
+}
+
 ::-webkit-scrollbar {
     display: none;
 }
